@@ -1,0 +1,22 @@
+{
+  "name": "vueclass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColinTravis/vueclass.git"
+  },
+  "author": "Colin Travis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColinTravis/vueclass/issues"
+  },
+  "homepage": "https://github.com/ColinTravis/vueclass#readme",
+  "dependencies": {
+    "simple-jekyll-search": "^1.7.0"
+  }
+}
