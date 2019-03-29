@@ -16,7 +16,5 @@
     "url": "https://github.com/ColinTravis/vueclass/issues"
   },
   "homepage": "https://github.com/ColinTravis/vueclass#readme",
-  "dependencies": {
-    "simple-jekyll-search": "^1.7.0"
-  }
+  "dependencies": {}
 }
