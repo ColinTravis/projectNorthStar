@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  "Project North Star Title"
-date:   2018-09-24 16:34:51 -0500
+title:  "Project North Star"
+date:   2019-05-19 16:34:51 -0500
 categories: notes
 ---
 
 # Project North Star
 
-Hello
+## Authors
+
+Colin Travis 
+
+Larry Phiravanh
